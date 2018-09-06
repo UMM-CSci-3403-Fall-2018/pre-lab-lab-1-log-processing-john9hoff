@@ -1,0 +1,10 @@
+The following regular expressions were made using Rubular.
+
+Regex0
+([A-Z]\w+)(?:,\s)([a-z]\w+)
+
+Regex1
+(?:I\sam\s)([A-Z]\w+)(?:..)(?:My\sfavorite\ssandwich\sis\s)([a-z]\w+)
+
+Regex2
+(?:sandwich\swith\s)([a-z]\w+[^\s]*)(?:\s)([a-z]\w+\s[a-z]\w+)
